@@ -1,4 +1,4 @@
-# React SSR & Next.js & GraphQL & TypeScript
+# React & GraphQL SpaceX Web
 
 ## 概要
 
