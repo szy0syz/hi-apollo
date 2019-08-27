@@ -15,11 +15,12 @@ const client = new ApolloClient({
 function App() {
   return (
     <ApolloProvider client={client}>
-      <div className='App'>
+      <div className="App">
         <img
           src={logo}
-          alt='logo'
-          style={{ width: 300, display: 'block', margin: 'auto' }}></img>
+          alt="logo"
+          style={{ width: 300, display: 'block', margin: 'auto' }}
+        ></img>
       </div>
       <Launches />
     </ApolloProvider>
