@@ -31,3 +31,9 @@ npm i concurrently -D
 ```bash
 npm i apollo-boost react-apollo graphql
 ```
+
+### react-moment
+
+```jsx
+<Moment format="YYYY-MM-DD HH:mm">{ launch_date_local }</Moment>
+```
